@@ -1,6 +1,6 @@
 # Proyecto-Final-Programación 1
 
-**Inventario de Mapas para Primaria y EBI:  es una aplicación en Python con interfaz gráfica (Tkinter) y base de datos SQLite.
+**Inventario de Mapas para Primaria y EBI:  es una aplicación en Python con interfaz gráfica (Tkinter) y base de datos SqLite.
 
 En este proyecto final, pensamos en un sistema ágil para para consultar, registrar, categorizar, almacenar y buscar mapas. 
 

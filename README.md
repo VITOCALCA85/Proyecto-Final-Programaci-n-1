@@ -27,4 +27,5 @@ Las librerías que elegimos son: "tkinter" y "sklite" porque la primera nos perm
 La utilización de la inteligencia artifical para el proyecto ha sido de guía.
 
 
+<img width="470" height="626" alt="image" src="https://github.com/user-attachments/assets/c7f104e3-2634-4b54-bf7b-0a729abff764" />
 

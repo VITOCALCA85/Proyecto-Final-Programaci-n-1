@@ -24,7 +24,7 @@ Si este tipo de inventario se asociara al uso de la itneligencia artificial seri
 
 Se investigó de como insertar las imágenes de los mapas en python y  que no se enocntró la forma, por ello se decidió agregar los  link para que puedan ser visualizados desde las páginas web y ser descargados.
 Las librerías que elegimos son: "tkinter" y "sklite" porque la primera nos permite crear una ventana principal que es el Inventario de mapas y después ingresar datos (nombre, año, tipo...) y nos permite usar botones: agregar mapa, buscar por título y hacer una lista. La segunda nos permite guardar información de forma permanente y segura. 
-
+La utilización de la inteligencia artifical para el proyecto ha sido de guía.
 
 
 

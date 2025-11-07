@@ -29,3 +29,18 @@ La utilización de la inteligencia artifical  ha servido de guía y apoyo para e
 
 <img width="470" height="626" alt="image" src="https://github.com/user-attachments/assets/c7f104e3-2634-4b54-bf7b-0a729abff764" />
 
+Bibliografía Didáctica- Disciplinar
+
+ Manejo avanzado de datos y archivos
+5_15_Listas.ipynb 1
+Programación orientada a objetos y Tipos abstractos de datos.
+4_12_Clases_y_objetos.ipynb 1
+ 4 _13_ Encapsulamiento.ipynb
+
+Páginas web consultadas
+http://bibliotecadigital.bibna.gub.uy:8080/jspui/handle/123456789/7
+https://www.mapasdeluruguay.eluruguayo.com/
+https://www.python.org/
+https://docs.python.org/es/3/library/index.html
+
+
